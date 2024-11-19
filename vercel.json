@@ -24,6 +24,6 @@
       }
     ], 
     "env": {
-      "NODE_VERSION": "16.x"
+      "NODE_OPTIONS": "--openssl-legacy-provider"
     }
   }
