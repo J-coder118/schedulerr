@@ -22,5 +22,8 @@
         "src": "/(.*)",
         "dest": "/frontend/$1"
       }
-    ]
+    ], 
+    "env": {
+      "NODE_VERSION": "16.x"
+    }
   }
